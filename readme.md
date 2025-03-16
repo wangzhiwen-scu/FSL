@@ -1,5 +1,5 @@
 # Quick start
-Demo:
+Wang, Zhiwen, et al. "One network to solve them all: A sequential multi-task joint learning network framework for MR imaging pipeline." Machine Learning for Medical Image Reconstruction: 4th International Workshop, MLMIR 2021, Held in Conjunction with MICCAI 2021, Strasbourg, France, October 1, 2021, Proceedings 4. Springer International Publishing, 2021.
 
 Running the shell scripts below would plot the Figure2b in our paper.
 ```bash
